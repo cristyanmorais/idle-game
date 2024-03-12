@@ -1,0 +1,17 @@
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: black;
+    color: #fff;
+}
+
+.quantity {
+    /* background-color: red; */
+    display: flex;
+}
+
+.hired {
+    display: flex;
+}
